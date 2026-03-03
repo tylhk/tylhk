@@ -4,6 +4,6 @@
 
 欢迎访问我的[博客](https://satone1008.cn/index.php/%e7%95%99%e8%a8%80%e6%9d%bf/)进行反馈和留言。
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylhk&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://my-readme-phi.vercel.app/api?username=tylhk&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
